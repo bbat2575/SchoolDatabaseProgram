@@ -1,0 +1,6 @@
+ITS230,Object Oriented Programming,3
+ITS231,Basics of Calculus,3
+ITS657,Introduction to Math,3
+CSC300,Introduction to programming,3
+CSC230,Statistics and Machine Learning,3
+CSC340,Object Oriented Programming,3
