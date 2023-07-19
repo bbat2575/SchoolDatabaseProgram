@@ -7,7 +7,7 @@
 
 <br>
 
-### Main Menu
+#### Main Menu
 
 Choose any of these options:
 1. Add a course
