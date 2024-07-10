@@ -1,7 +1,5 @@
 '''
-Name: Bassam Batch
-SID: 310229251
-Unikey: bbat2575
+School Database Program
 '''
 
 import os
