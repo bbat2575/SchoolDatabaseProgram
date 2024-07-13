@@ -3,8 +3,6 @@
 
 Course, student and teacher data are added and retrieved from their respected files (course_info.txt, student_info.txt and teacher_info.txt).
 
-<br>
-
 #### Main Menu
 
 Choose any of these options:
