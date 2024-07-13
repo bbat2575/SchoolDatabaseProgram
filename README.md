@@ -1,7 +1,7 @@
 # School Database Program
 **Data storage software for schools.**
 
-Course, student and teacher data is added and retrieved from their respected files (course_info.txt, student_info.txt and teacher_info.txt).
+Course, student and teacher data are added and retrieved from their respected files (course_info.txt, student_info.txt and teacher_info.txt).
 
 <br>
 
